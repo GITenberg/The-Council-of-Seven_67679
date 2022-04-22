@@ -1,6 +1,9 @@
 _repo: The-Council-of-Seven_67679
 _version: 0.1.0
 alternative_title: The Council of 7
+covers:
+- cover_type: archival
+  image_path: 67679-h/images/cover.jpg
 creator:
   author:
     agent_name: Snaith, J. C. (John Collis)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37216
     wikipedia: https://en.wikipedia.org/wiki/John_Snaith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67679#The-Council-of-Seven
 gutenberg_issued: '2022-03-21'
 identifiers:
   gutenberg: '67679'
